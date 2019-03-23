@@ -36,7 +36,7 @@ Author URI : http://www.markups.io/
   background-color: #01bafd;
 }
 #mu-menu .navbar-default .navbar-nav .open a:hover, #mu-menu .navbar-default .navbar-nav .open a:focus {
-  background-color: #01bafd;
+  background-color: transparent;
 }
 
 #mu-menu .navbar-default .navbar-nav > .active > a, #mu-menu .navbar-default .navbar-nav > .active > a:hover, #mu-menu .navbar-default .navbar-nav > .active > a:focus {
@@ -59,7 +59,7 @@ Author URI : http://www.markups.io/
 
 #mu-features .mu-features-area .mu-features-content .mu-single-feature span {
   color: #01bafd;
-  border: 1px solid #01bafd;
+  border: 0px solid #01bafd;
 }
 #mu-features .mu-features-area .mu-features-content .mu-single-feature a:hover, #mu-features .mu-features-area .mu-features-content .mu-single-feature a:focus {
   color: #01bafd;
