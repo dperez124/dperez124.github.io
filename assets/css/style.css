@@ -77,6 +77,8 @@ h2 {
 }
 
 img {
+  max-width: 600%;
+  max-height: 600%;
   border: none;
 }
 
