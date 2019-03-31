@@ -74,13 +74,24 @@ h2 {
   font-weight: 700;
   line-height: 40px;
   margin: 0;
+  text-align: center;
 }
 
 img {
-  max-width: 600%;
-  max-height: 600%;
+  max-width: 500%;
+  max-height: 500%;
   border: none;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.column {
+  width: 25%;
+}
+
 
 .mu-read-more-btn {
   border: 1px solid #fff;
@@ -553,7 +564,7 @@ img {
   width: 100%;
 }
 .mu-title h2 {
-  color: #000;
+  color: rgb(255, 255, 255);
   margin-bottom: 10px;
   text-transform: uppercase;
 }
@@ -896,16 +907,21 @@ img {
   margin-bottom: 0;
   margin-top: 20px;
   text-transform: uppercase;
+  text-align: center;
+  color: white;
 }
 #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single .mu-ourteacher-single-content span {
-  color: #000;
+  color: rgb(255, 255, 255);
   display: block;
   font-size: 14px;
   margin-bottom: 8px;
   margin-top: 5px;
+  text-align: center;
 }
 #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single .mu-ourteacher-single-content p {
   font-size: 15px;
+  text-align: center;
+  color: white;
 }
 
 /*==================
