@@ -247,7 +247,7 @@ img {
   color: #fff;
 }
 #mu-menu .navbar-default .navbar-nav .open a:hover, #mu-menu .navbar-default .navbar-nav .open a:focus {
-  color: gray);
+  color: gray;
 }
 
 /* ALL SECTION */
@@ -1940,8 +1940,10 @@ img {
 ====================*/
 #mu-footer {
   display: inline;
-  float: left;
   width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
 #mu-footer .mu-footer-top {
   background-color: #333;
