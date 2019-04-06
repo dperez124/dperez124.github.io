@@ -1940,6 +1940,7 @@ img {
 ====================*/
 #mu-footer {
   display: inline;
+  width: 100%;
   position: fixed;
   left: 0;
   bottom: 0;
