@@ -32,7 +32,7 @@
 
 /* BASE - Base tyles, Variables, Mixins, etc. */
 body {
-  background-color: #ffffff;
+  background-color: #fff;
   font-family: "Roboto", sans-serif;
   color: #333333;
   font-size: 14px;
@@ -1941,7 +1941,7 @@ img {
 #mu-footer {
   display: inline;
   width: 100%;
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
 }
