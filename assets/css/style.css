@@ -131,7 +131,7 @@ img {
  HEADER SECTION
 ====================*/
 #mu-header {
-  background-color: #eb6b03;
+  background-color: #fc5503;
   display: inline;
   float: left;
   width: 100%;
@@ -450,7 +450,7 @@ img {
   background-color: #00d640;
 }
 #mu-service .mu-service-area .mu-service-single:nth-child(2) {
-  background-color: #ff9100;
+  background-color: #fc5503;
 }
 #mu-service .mu-service-area .mu-service-single:nth-child(3) {
   background-color: #45a0de;
